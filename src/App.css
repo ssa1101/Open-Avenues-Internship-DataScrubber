@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  background-color: #001e3c;
+  min-height: 200vh;
+}
+
+.header {
+  background-color: #001e3c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  color: white;
+  font-size: 13px;
+  font-family: "Inconsolata", monospace;
+  text-shadow: 2px 2px 0 #2994c7;
+}
+.middle-els {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.myTable {
+  align-items: center;
+  margin: 50px 20px;
+  padding: 20px 20px;
+}
+
+.headers {
+  color: "white";
+}
+
+#standard-multiline-static {
+  border-color: "white";
+  width: 700px;
+  height: 100px;
+}
+
+.topComponents {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Stack {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Accordion {
+  background-color: #001e3c;
+}
+
+.IndivLines {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
